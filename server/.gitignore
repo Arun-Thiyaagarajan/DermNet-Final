@@ -1,0 +1,22 @@
+# Ignore virtual environment files
+/myvenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment-specific files
+*.env
+.env/
+
+# Ignore database files (if applicable)
+*.db
+*.sqlite
+
+# Ignore model files (update with your model file extensions)
+*.h5
+*.pkl
+
+# Ignore logs and temp files
+*.log
+*.tmp
